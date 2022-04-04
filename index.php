@@ -319,6 +319,7 @@ foreach ($data as $row) {
                     class="d-flex justify-content-between align-items-center"
                   >
                     <div class="btn-group">
+                      test
 
                     </div>
                     <small class="text-muted">Hoofdgerechten</small>
